@@ -1,6 +1,4 @@
-Certainly! Here's an updated version of the readme file with usage instructions for Project Euler Problem 1:
 
----
 
 # Project Euler Problem 1
 
