@@ -48,4 +48,3 @@ To run the program, follow these steps:
 
 Make sure you have Java Development Kit (JDK) installed on your system before attempting to compile and run the Java files.
 
-Feel free to update the readme file with any additional information or clarifications about the project and its usage.
